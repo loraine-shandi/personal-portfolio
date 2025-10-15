@@ -235,7 +235,7 @@ function App() {
     </div>
     <div className="hero-content">
       <div className="hero-subtitle">UI/UX</div>
-      <h1>Learning, Designing, and Growing</h1>
+      <h1> Hi, I'm Shandi! </h1>
       <p className="subtitle">
         I’m a beginner UI/UX designer passionate about learning and improving my craft. 
         I enjoy creating designs that make digital experiences smoother and more enjoyable for users.
